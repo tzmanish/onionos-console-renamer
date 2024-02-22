@@ -1,0 +1,56 @@
+Year,Console_folder,Current_label,Full_name,Short_name,New_label
+,PORTS,Ports,,,Ports
+,SEARCH, Search ,,,  Search  
+1970,ARCADE,Arcade,Arcade,Arcade, 70 Arcade 
+1976,FAIRCHILD,FairChanF,Fairchild Channel F,ChanF, 76 ChanF 
+1977,ATARI,Atari 2600,Atari 2600,Atari2600, 77 A2600 
+1978,ODYSSEY,Odyssey2,Odyssey 2,Ody2, 78 Ody2 
+1979,INTELLIVISION,IntelliVis,Intellivision,IntVis, 79 IntVis 
+1980,GW,GameWatch,Nintendo GW HH,GameWatch, 80 GW 
+1980,VIC20,VIC-20,VIC-20,VIC-20, 80 VIC-20 
+1981,DOS,MS-DOS,MS-DOS,DOS, 81 DOS 
+1982,COLECO,ColecoVis,ColecoVision,ColVis, 82 ColVis 
+1982,COMMODORE,Commodore,Commodore64,Com64, 82 Com64 
+1982,FIFTYTWOHUNDRED,Atari 5200,Atari 5200,A5200, 82 A5200 
+1982,VECTREX,Vectrex,Vectrex,Vectrex, 82 Vectrex 
+1982,ZXS,ZXSpect,ZX Spectrum,ZXSpec, 82 ZXSpec 
+1983,FC,NES,Nintendo Entertainment System,NES, 83 NES 
+1983,MSX,MSX,MSX,MSX, 83 MSX 
+1983,SEGASGONE,SG-1000,SG-1000,SG1000, 83 SG1000 
+1983,VIDEOPAC,VideoPac,Philips Videopac+ G7400,Ody3, 83 Ody3 
+1984,CPC,Amst CPC,Amstrad CPC,ACPC, 84 ACPC 
+1985,AMIGA,Amiga,Amiga,Amiga, 85 Amiga 
+1985,MS,Sega MS,Sega MasterSystem,SMS, 85 SMS 
+1986,FDS,FDS,Nintendo FDS,FDS, 86 FDS 
+1986,SEVENTYEIGHTHUNDRED,Atari 7800,Atari 7800,A7800, 86 A7800 
+1987,PCE,TG-16,TurboGrafx-16,TGfx-16, 87 TGfx16 
+1988,CPS1,CPS1,CPS1,CPS1, 88 CPS1 
+1988,MD,Genesis,Sega Genesis,Genesis, 88 Genesis 
+1989,GB,GB,Game Boy HH,GB, 89 GB 
+1989,LYNX,Atari Lynx,Atari Lynx,Lynx, 89 Lynx 
+1989,PCECD,TG-CD,TurboGrafx-CD,TGfx-CD, 89 TGfxCD 
+1989,SGFX,SuperGfx,SuperGrafx,SuperGfx, 89 SGfx 
+1990,GG,Game Gear,Sega GameGear HH,SGG, 90 SGG 
+1990,NEOGEO,NeoGeo,NeoGeo,NeoGeo, 90 NeoGeo 
+1990,SFC,SNES,Super Nintendo Entertainment System,SNES, 90 SNES 
+1991,SEGACD,Sega CD,Sega CD,SCD, 91 SCD 
+1992,SUPERVISION,Supervis.,Watara Supervision HH,SupVis, 92 SupVis 
+1993,CPS2,CPS2,CPS2,CPS2, 93 CPS2 
+1993,MEGADUCK,Mega Duck,Mega Duck HH,MegaDuck, 93 MDuck 
+1994,NEOCD,NeoGeo CD,NeoGeo CD,NGCD, 94 NGCD 
+1994,SGB,SGB,Super Game Boy HH,SGB, 94 SGB 
+1994,THIRTYTWOX,Sega 32X,Sega 32X,S32X, 94 S32X 
+1995,SATELLAVIEW,BS-X,Satellaview,SView, 95 SView 
+1995,VB,VirtualBoy,VirtualBoy,VirtuaBoy, 95 VBoy 
+1996,CPS3,CPS3,CPS3,CPS3, 96 CPS3 
+1996,SUFAMI,SufamTrbo,SuFami Turbo,SufamTrbo, 96 STurbo 
+1998,GBC,GBC,GameBoy Color HH,GBC, 98 GBC 
+1998,NGP,NG Pocket,NeoGeo Pocket HH,NGPoket, 98 NGPkt 
+1999,WS,WndrSwan,WonderSwan HH,WndrSwan, 99 WSwan 
+2001,GBA,GBA,Game Boy Advance HH,GBA,01 GBA
+2001,POKE,Pokemini,Pokémon Mini HH,PokeMini,01 PokeMin
+2001,SCUMMVM,ScummVM,ScummVM,ScummVM,01 ScVM
+2003,PSX,PSX,Sony PSX,PSX,03 PSX
+2004,NDS,NDS,Nintendo DS,NDS,04 NDS
+2017,TIC,TIC-80,TIC-80,TIC-80,17 TIC-80
+2023,PICO,PICO-8,PICO-8,PICO-8,23 PICO-8
